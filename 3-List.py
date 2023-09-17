@@ -33,3 +33,11 @@ do= sc_copy.index(maxvalue)
 done = int(do)
 print(do, "is the index number of the max score and the name of the student is", names[done], "that got,", scores[done],".")
 
+
+
+
+
+album = "Flip Your Wig"
+
+
+print(album[10:])
