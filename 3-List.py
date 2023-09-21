@@ -37,7 +37,3 @@ print(do, "is the index number of the max score and the name of the student is",
 
 
 
-album = "Flip Your Wig"
-
-
-print(album[10:])
